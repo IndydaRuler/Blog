@@ -1,12 +1,12 @@
 body {
-    background-color: rgb(60, 60, 236);
+    background-color:  #059;
     color: azure;
 }
 
-h2 {
-    color: white;
+h1 {
+    color: rgb(0, 0, 0);
 }
 
 p {
-    color: brown;
+    color: rgb(255, 0, 0);
 }
